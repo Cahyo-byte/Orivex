@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ecfeff"/><stop offset="1" stop-color="#dbeafe"/></linearGradient></defs>
+<rect width="1200" height="760" fill="url(#g)"/>
+<rect x="70" y="60" width="1060" height="640" rx="30" fill="#fff"/>
+<rect x="70" y="60" width="1060" height="90" rx="30" fill="#0f172a"/>
+<text x="120" y="118" font-family="Arial" font-size="30" font-weight="700" fill="#fff">SAPA DESA</text>
+<rect x="120" y="205" width="450" height="42" rx="21" fill="#0f172a"/>
+<rect x="120" y="270" width="350" height="18" rx="9" fill="#94a3b8"/>
+<rect x="120" y="320" width="175" height="52" rx="26" fill="#0ea5e9"/>
+<rect x="650" y="195" width="390" height="310" rx="28" fill="#e0f2fe"/>
+<path d="M745 420l85-120 85 120z" fill="#0ea5e9" opacity=".9"/>
+<text x="120" y="610" font-family="Arial" font-size="24" font-weight="700" fill="#64748b">Complaint System</text>
+</svg>
